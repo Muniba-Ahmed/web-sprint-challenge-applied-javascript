@@ -50,7 +50,7 @@ In meeting the minimum viable product (MVP) specifications listed below, your pr
 
 ## Submission format
 
-- [ ] Submit via Codegrade by committing and pushing any new changes to the *main* branch.
+- [ ] Submit via Codegrade by committing and pushing any new changes to the _main_ branch.
 - [ ] Check Codegrade for automated feedback.
 - [ ] Check Codegrade in the days following the Sprint Challenge for reviewer feedback.
 - [ ] Any changes pushed after the deadline will not receive any feedback.
@@ -64,3 +64,15 @@ Demonstrate your understanding of this week's concepts by answering the followin
 3. What is an event listener?
 4. Why would we convert a NodeList into an Array?
 5. What is a component?
+
+6. What is the DOM?
+   -Document Object Model is a programming interface for web documents. It represents the page so that programs can change the document structure, style, & content. The represents the document as nodes & objects ; that way programming languages can interact with the page.
+
+7. What is an event?
+   -Every user interaction with a site is an event: a click, moving the mouse, scrolling the page, pressing a key on the keyboard, these are all events on the page, and the browser can detect all of them. There are tons of different events the browser tracks. When an event happens on a page, it is known as a trigger.
+8. What is an event listener?
+   -The eventListener interface represents an object that can handle an event dispatched by an EventTarget.
+9. Why would we convert a NodeList into an Array?
+   -A node list is limited to using a forEach method. When a Node List is converted into an array it has access to various ways iterate through advanced array methods.
+10. What is a component?
+    -A component comprises several parts: HTML, CSS, or JavaScript brought together for reuse in a website or application.
