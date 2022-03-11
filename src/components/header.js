@@ -47,7 +47,9 @@ const headerAppender = (selector) => {
   // document.querySelector(".header-container").appendChild(Header(selector));
 
   const newHeader = document.querySelector(selector);
-  newHeader.appendChild(Header("Marlo Times", "March 11th", "70 degrees"));
+  newHeader.appendChild(
+    Header("The Bloomtech Gazette", "March 11th", "70 degrees")
+  );
 };
 
 export { Header, headerAppender };
